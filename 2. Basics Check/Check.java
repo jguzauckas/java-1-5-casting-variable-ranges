@@ -1,14 +1,12 @@
 public class Check {
     public static void main (String[] args){
-        int checkMath = -15;
-        checkMath = checkMath + 1;
-
-        checkMath = checkMath - 6;
-
-        checkMath = checkMath * -15;
-
-        checkMath = checkMath / 11;
-
-        checkMath = checkMath % 5;
+        double castMe1 = -5;
+        int castMe2 = 16.123;
+        double castMe3 = 3 / 4;
+        int roundMe1 = -123.45;
+        int roundMe2 = 543.21;
+        int largestNumber = ;
+        int smallestNumber = ;
+        int smallNumber = ;
     }
 }

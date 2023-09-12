@@ -1,15 +1,11 @@
 public class Try {
     public static void main (String[] args){
-        double doMath = 14.7;
-        doMath = doMath + 3.2;
-
-        doMath = doMath - 12.1;
-
-        doMath = doMath * 4.9;
-
-        doMath = doMath / 1.3;
-
-        doMath = doMath % 3.6;
-
+        int castMe1 = 4.23;
+        double castMe2 = -4;
+        int castMe3 = 4 / 2.3;
+        int roundMe1 = 4.6;
+        int roundMe2 = -3.2;
+        int largestNumber = ;
+        int smallestNumber = ;
     }
 }
